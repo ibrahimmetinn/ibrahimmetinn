@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/LSoTVfTxuC29noNwvC/giphy.gif?cid=ecf05e47rp3mcahhf4ikottx4lojyzen3jjyhx3ghovtoroi&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="center" height="" width="600" />
+<img src="https://media.giphy.com/media/LSoTVfTxuC29noNwvC/giphy.gif?cid=ecf05e47rp3mcahhf4ikottx4lojyzen3jjyhx3ghovtoroi&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="center" height="" width="300" />
 </div>  
   
 ### <div align="">Hello Everyone... I am ibrahim. I am a Data Analyst since 2023 🚀</div>  
