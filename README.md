@@ -1,5 +1,5 @@
-<div align="center">
-<img src="https://media.giphy.com/media/LSoTVfTxuC29noNwvC/giphy.gif?cid=ecf05e47rp3mcahhf4ikottx4lojyzen3jjyhx3ghovtoroi&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="center" height="" width="300" />
+<div align="left">
+<img src="https://media.giphy.com/media/LSoTVfTxuC29noNwvC/giphy.gif?cid=ecf05e47rp3mcahhf4ikottx4lojyzen3jjyhx3ghovtoroi&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="top" height="" width="300" />
 </div>  
   
 ### <div align="">Hello Everyone... I am ibrahim. I am a Data Analyst since 2023 🚀</div>  
@@ -15,7 +15,7 @@
 
 
 ## My Skill Set  
-  <table><tr><td valign="right" width="33%">
+  <table><tr><td valign="top" width="33%">
 
 
 
@@ -25,7 +25,7 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>
 
-</td><td valign="center" width="33%">
+</td><td valign="top" width="33%">
 
 
 
@@ -37,16 +37,16 @@
 
 </td><td valign="center" width="33%">
 
-<img src="https://private-user-images.githubusercontent.com/150549575/327461896-c9a98cfd-7607-47f6-857b-2daee3fbc652.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ2NTk0NjIsIm5iZiI6MTcxNDY1OTE2MiwicGF0aCI6Ii8xNTA1NDk1NzUvMzI3NDYxODk2LWM5YTk4Y2ZkLTc2MDctNDdmNi04NTdiLTJkYWVlM2ZiYzY1Mi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUwMlQxNDEyNDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ZjFjMTg3ZjM1ZmMyZmYxYjE2NjE5MDI4Y2E1Yzc0MTUyZGFiYmMyNWI2ZjBlNDkyZWRhN2IyNGQyNGJkNGQ1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.VPgL4MFQY5_I7qMlTibrAjXkT5bQuwYuSC3EZFBRmbs" align="right" height="200" width="200" />  
-
 
 </td></tr></table>  
+
+<img src="https://private-user-images.githubusercontent.com/150549575/327461896-c9a98cfd-7607-47f6-857b-2daee3fbc652.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ2NTk0NjIsIm5iZiI6MTcxNDY1OTE2MiwicGF0aCI6Ii8xNTA1NDk1NzUvMzI3NDYxODk2LWM5YTk4Y2ZkLTc2MDctNDdmNi04NTdiLTJkYWVlM2ZiYzY1Mi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUwMlQxNDEyNDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ZjFjMTg3ZjM1ZmMyZmYxYjE2NjE5MDI4Y2E1Yzc0MTUyZGFiYmMyNWI2ZjBlNDkyZWRhN2IyNGQyNGJkNGQ1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.VPgL4MFQY5_I7qMlTibrAjXkT5bQuwYuSC3EZFBRmbs" align="center" height="300" width="300" />  
 
 <br/>  
 
 
 ## Connect with me  
-<div align="center">
+</td><td valign="top" width="33%"
 <a href="https://github.com/ibrahimmetinn" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -69,24 +69,24 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=ibrahimmetinn&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
+<img src="https://github-readme-stats.vercel.app/api?username=ibrahimmetinn&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 33%" />  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimmetinn&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3165fe35bwfh6cdf7fg6pp3moe2y&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimmetinn&hide_border=true&layout=compact" align="top" /></div>  
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ibrahimmetinn&&style=flat-square" align="center" />
+<div align="top"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3165fe35bwfh6cdf7fg6pp3moe2y&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false"  /></div>  
+
+<br/>  
+
+<div align="top">
+<img src="https://komarev.com/ghpvc/?username=ibrahimmetinn&&style=flat-square" align="top" />
 </div>  
   
 
 <br/>  
 
-<div align="center">
+<div align="top">
             <a href="https://www.buymeacoffee.com/ibrahimmetinn" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
@@ -96,4 +96,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="top">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
